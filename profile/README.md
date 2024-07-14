@@ -8,5 +8,5 @@
   Visit our website at <a href="http://templecheats.xyz">templecheats.xyz</a>
 </p>
 <p align="center">
-  Our <a href="https://discord.gg/sqwVdrVdC7">Discord</a>
+  Our <a href="https://discord.gg/j6hTUB5GBx">Discord</a>
 </p>
