@@ -5,6 +5,9 @@
 <a href="https://discord.gg/j6hTUB5GBx" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="http://templecheats.xyz" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Website-templecheats.xyz-007ACC?style=for-the-badge">
+</a>
 </p>
 
 <hr>
@@ -15,10 +18,4 @@
 
 <hr>
 
-<p align="center" style="font-size: 24px; font-family: Arial, sans-serif; margin-top: 20px;">
-  Visit our website at <a href="http://templecheats.xyz" style="color: #007ACC; text-decoration: none; font-weight: bold;">templecheats.xyz</a>
-</p>
-<p align="center" style="font-size: 24px; font-family: Arial, sans-serif; margin-bottom: 20px;">
-  Join our <a href="https://discord.gg/j6hTUB5GBx" style="color: #7289DA; text-decoration: none; font-weight: bold;">Discord</a>
-</p>
 
