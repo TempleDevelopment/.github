@@ -7,9 +7,13 @@
 </a>
 </p>
 
----
-### Temple Development is the official GitHub organization for all projects related to Temple Cheats.
----
+<hr>
+
+<p align="center">
+  <strong>Temple Development is the official GitHub organization for all projects related to Temple Cheats.</strong>
+</p>
+
+<hr>
 
 <p align="center" style="font-size: 24px; font-family: Arial, sans-serif; margin-top: 20px;">
   Visit our website at <a href="http://templecheats.xyz" style="color: #007ACC; text-decoration: none; font-weight: bold;">templecheats.xyz</a>
