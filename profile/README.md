@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TempleDevelopment/.github/blob/main/profile/images/logo.png" alt="Temple Cheats Community">
+<img src="images/logo.png">
 </p>
 
 <p align="center">
