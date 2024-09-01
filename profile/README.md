@@ -9,8 +9,8 @@
 
 <hr>
 
-<p align="center">
-  <strong>Temple Development is the official GitHub organization for all projects related to Temple Cheats.</strong>
+<p align="center" style="font-size: 24px; font-weight: bold;">
+  Temple Development is the official GitHub organization for all projects related to Temple Cheats.
 </p>
 
 <hr>
