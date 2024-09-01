@@ -9,9 +9,9 @@
 
 <hr>
 
-<p align="center" style="font-size: 24px; font-weight: bold;">
+<h3 align="center">
   Temple Development is the official GitHub organization for all projects related to Temple Cheats.
-</p>
+</h3>
 
 <hr>
 
