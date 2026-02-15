@@ -18,4 +18,9 @@
 
 <hr>
 
+<p align="center">
+<a href="https://templecheats.xyz">Website</a> •
+<a href="https://templeenterprise.com">Operated by Temple Enterprise LLC</a>
+</p>
+
 
